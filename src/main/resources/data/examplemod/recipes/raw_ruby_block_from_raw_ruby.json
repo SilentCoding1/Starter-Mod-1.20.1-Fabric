@@ -8,10 +8,10 @@
   ],
   "key": {
     "#": {
-      "item": "examplemod:ruby"
+      "item": "examplemod:raw_ruby"
     }
   },
   "result": {
-    "item": "examplemod:ruby_block"
+    "item": "examplemod:raw_ruby_block"
   }
 }
