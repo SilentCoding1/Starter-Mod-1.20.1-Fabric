@@ -2,6 +2,7 @@ package net.silent.examplemod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.silent.examplemod.block.ModBlocks;
 import net.silent.examplemod.item.ModItemGroups;
 import net.silent.examplemod.item.ModItems;
 import org.slf4j.Logger;
@@ -14,6 +15,8 @@ public class ExampleMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
+
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
