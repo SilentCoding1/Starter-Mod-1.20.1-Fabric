@@ -1,4 +1,6 @@
 {
   "item.examplemod.ruby": "Ruby",
-  "item.examplemod.ruby": "Raw Ruby"
+  "item.examplemod.raw_ruby": "Raw Ruby",
+
+  "itemgroup.ruby": "Ruby Items Group"
 }
