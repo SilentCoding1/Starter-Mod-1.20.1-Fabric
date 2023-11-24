@@ -29,7 +29,7 @@ public class ModItems {
     public static void registerModItems() {
         ExampleMod.LOGGER.info("Registering Mod Items for " + ExampleMod.MOD_ID);
 
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(ModItems::addItemsToIngredientItemGroup);
+        // ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(ModItems::addItemsToIngredientItemGroup);
     }
 
 }
