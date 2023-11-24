@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "examplemod",
+	"version": "${version}",
+	"name": "ExampleMod",
+	"description": "This is an example mod made by Silent :)",
+	"authors": [
+		"Silent"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/examplemod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.silent.examplemod.ExampleMod"
+		],
+		"client": [
+			"net.silent.examplemod.ExampleModClient"
+		],
+		"fabric-datagen": [
+			"net.silent.examplemod.ExampleModDataGenerator"
+		]
+	},
+	"mixins": [
+		"examplemod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.24",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
