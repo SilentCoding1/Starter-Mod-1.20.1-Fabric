@@ -3,7 +3,8 @@
   "item.examplemod.raw_ruby": "Raw Ruby",
 
   "item.examplemod.metal_detector": "Metal Detector",
-  "item.examplemod.sound_block": "Sound Block",
+  "item.examplemod.tomato": "Tomato",
+  "block.examplemod.sound_block": "Sound Block",
 
   "block.examplemod.ruby_block": "Block of Ruby",
   "block.examplemod.raw_ruby_block": "Block of Raw Ruby",

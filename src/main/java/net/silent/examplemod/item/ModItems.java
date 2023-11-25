@@ -20,6 +20,8 @@ public class ModItems {
     public static final Item METAL_DETECTOR = registerItem("metal_detector",
             new MetalDetectorItem(new FabricItemSettings().maxDamage(250)));
 
+    public static final Item TOMATO = registerItem("tomato", new Item(new FabricItemSettings().food(ModFooodComponents.TOMATO)));
+
     // Adds item to vanilla item groups
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(RUBY);
