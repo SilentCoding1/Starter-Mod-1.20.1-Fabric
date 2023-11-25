@@ -9,12 +9,16 @@ import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
+import net.silent.examplemod.item.custom.MetalDetectorItem;
 
 public class ModItems {
 
     // Adds a new Item
     public static final Item RUBY = registerItem("ruby", new Item(new FabricItemSettings()));
     public static final Item RAW_RUBY = registerItem("raw_ruby", new Item(new FabricItemSettings()));
+
+    public static final Item METAL_DETECTOR = registerItem("metal_detector",
+            new MetalDetectorItem(new FabricItemSettings().maxDamage(250)));
 
     // Adds item to vanilla item groups
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
