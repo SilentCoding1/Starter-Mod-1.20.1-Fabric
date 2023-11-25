@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "examplemod:raw_ruby_block",
-    "examplemod:ruby_block",
-    "examplemod:deepslate_ruby_ore",
-    "examplemod:ruby_ore"
-  ]
-}
