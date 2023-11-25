@@ -2,6 +2,7 @@ package net.silent.examplemod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.silent.examplemod.block.ModBlocks;
 import net.silent.examplemod.item.ModItemGroups;
 import net.silent.examplemod.item.ModItems;
@@ -18,5 +19,7 @@ public class ExampleMod implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+
+		FuelRegistry.INSTANCE.add(ModItems.COAL_BITS, 200);
 	}
 }

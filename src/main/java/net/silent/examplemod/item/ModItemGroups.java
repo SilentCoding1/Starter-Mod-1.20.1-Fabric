@@ -21,6 +21,7 @@ public class ModItemGroups {
                         entries.add(ModItems.METAL_DETECTOR);
 
                         entries.add(ModItems.TOMATO);
+                        entries.add(ModItems.COAL_BITS);
 
                         entries.add(ModBlocks.SOUND_BLOCK);
 

@@ -21,6 +21,7 @@ public class ModItems {
             new MetalDetectorItem(new FabricItemSettings().maxDamage(250)));
 
     public static final Item TOMATO = registerItem("tomato", new Item(new FabricItemSettings().food(ModFooodComponents.TOMATO)));
+    public static final Item COAL_BITS = registerItem("coal_bits", new Item(new FabricItemSettings()));
 
     // Adds item to vanilla item groups
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {

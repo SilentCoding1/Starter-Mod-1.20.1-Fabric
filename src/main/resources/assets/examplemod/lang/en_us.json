@@ -1,15 +1,18 @@
 {
+  "itemgroup.ruby": "Ruby Ietms Group",
   "item.examplemod.ruby": "Ruby",
   "item.examplemod.raw_ruby": "Raw Ruby",
 
   "item.examplemod.metal_detector": "Metal Detector",
   "item.examplemod.tomato": "Tomato",
+
+  "item.examplemod.coal_bits": "Coal Bits",
+
   "block.examplemod.sound_block": "Sound Block",
 
   "block.examplemod.ruby_block": "Block of Ruby",
   "block.examplemod.raw_ruby_block": "Block of Raw Ruby",
 
-  "itemgroup.ruby": "Ruby Ietms Group",
   "block.examplemod.ruby_ore": "Ruby Ore",
   "block.examplemod.deepslate_ruby_ore": "Deepslate Ruby Ore",
   "block.examplemod.nether_ruby_ore": "Nether Ruby Ore",
