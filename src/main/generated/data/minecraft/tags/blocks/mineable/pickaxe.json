@@ -3,10 +3,10 @@
   "values": [
     "examplemod:raw_ruby_block",
     "examplemod:ruby_block",
-    "examplemod:nether_ruby_ore",
     "examplemod:ruby_ore",
-    "examplemod:end_stone_ruby_ore",
     "examplemod:deepslate_ruby_ore",
+    "examplemod:nether_ruby_ore",
+    "examplemod:end_stone_ruby_ore",
     "examplemod:sound_block"
   ]
 }

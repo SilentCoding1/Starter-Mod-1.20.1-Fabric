@@ -1,7 +1,7 @@
-// 1.20.1	2023-11-24T21:40:57.88592	ExampleMod/Recipes
+// 1.20.1	2023-11-25T19:31:43.294681	ExampleMod/Recipes
 4ad90b84ae530448640c905fb7917adeed2128e7 data\examplemod\recipes\ruby_from_smelting_ruby_ore.json
-8cd809e64c31c6c1f3f1ef10c3ac89c785de541f data\examplemod\recipes\ruby_block.json
 46452acb67641e54f6876453a5c30b1907cd6081 data\examplemod\advancements\recipes\misc\ruby_from_blasting_end_stone_ruby_ore.json
+8cd809e64c31c6c1f3f1ef10c3ac89c785de541f data\examplemod\recipes\ruby_block.json
 710a74231f51b360d2185f11122d8223510f5c8c data\examplemod\recipes\ruby_from_smelting_nether_ruby_ore.json
 8d0b569c6758a68b3f5d5bbde86aad3c6aaae0c4 data\examplemod\recipes\ruby_from_smelting_raw_ruby.json
 1dc231d3181f9fe800cc5fc0764cd150799ff3be data\examplemod\recipes\ruby.json

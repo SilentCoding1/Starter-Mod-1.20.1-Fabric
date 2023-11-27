@@ -18,6 +18,16 @@
 
   "block.examplemod.sound_block": "Sound Block",
 
+  "block.examplemod.ruby_stairs": "Ruby Stairs",
+  "block.examplemod.ruby_slab": "Ruby Slab",
+  "block.examplemod.ruby_button": "Ruby Button",
+  "block.examplemod.ruby_pressure_plate": "Ruby Pressure Plate",
+  "block.examplemod.ruby_fence": "Ruby Fence",
+  "block.examplemod.ruby_fence_gate": "Ruby Fence Gate",
+  "block.examplemod.ruby_Wall": "Ruby Wall",
+  "block.examplemod.ruby_door": "Ruby Door",
+  "block.examplemod.ruby_Trapdoor": "Ruby Trapdoor",
+
   "tooltip.examplemod.metal_detector.tooltip": "Finds valuables underground",
 
   "itemgroup.ruby": "Ruby Items"
